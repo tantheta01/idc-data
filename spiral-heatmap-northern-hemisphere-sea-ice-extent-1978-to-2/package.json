@@ -1,0 +1,14 @@
+{
+  "name": "@tomshanley/spiral-heatmap-northern-hemisphere-sea-ice-extent-1978-to-2",
+  "main": "15d6b119ed0c979d@205.js",
+  "version": "205.0.0",
+  "homepage": "https://observablehq.com/@tomshanley/spiral-heatmap-northern-hemisphere-sea-ice-extent-1978-to-2",
+  "author": {
+    "name": "Tom Shanley",
+    "url": "https://observablehq.com/@tomshanley"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
